@@ -1,0 +1,4 @@
+skill=x402-discovery
+x402SpecVersion=2
+# Projection-only sub-skill: derives origin-local discovery from an existing x402 route config.
+# Ships no docs/examples bundle (see x402-start for that); reference/ is self-contained curated guidance.
