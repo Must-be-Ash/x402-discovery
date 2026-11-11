@@ -1,5 +1,7 @@
 # x402-discovery
 
+> **Not maintained.** x402 and the services this uses may have changed since it was built; check the latest x402 docs before relying on it.
+
 A small Claude Code skill that makes your **already-x402-enabled** API discoverable at your own domain.
 
 After you've set up x402 payments (e.g. with the [`x402-start`](https://github.com/Must-be-Ash/x402-start)
